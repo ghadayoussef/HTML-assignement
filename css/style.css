@@ -1,0 +1,59 @@
+h1{
+    font-family: 'Jomolhari', serif;
+    /* background-color: #c9d1d3; */
+    width: 25%;
+
+    color: #1b2a49;
+}
+body{
+    font-family: 'Jomolhari', serif;
+    background-color: #f4efd3;
+}
+span.star{
+    
+    color: red;
+    
+}
+span.terms{
+    
+    color: blue;
+    text-decoration: underline;
+    
+}
+h3{
+    color: #1b2a49;
+    border-style: dotted;
+    width: 30%;
+    background-color: #cccccc;
+}
+.label{
+    background-color: #cccccc;
+    /* padding-right: 150px;  */
+     margin-right:150px; */
+    /* margin-right:10%; */
+}
+input.phone_field{
+    padding: 10px;
+    margin: 10px;
+    
+}
+.phone_details{
+    margin-left: 80px;
+}
+.ph_details{
+    float: left;
+    padding-right: 200px;
+}
+.mobile{
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+.address_field{
+    height: 100px;
+width: 400px;
+}
+.password_field{
+    margin-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
